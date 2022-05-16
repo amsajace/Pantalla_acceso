@@ -71,5 +71,6 @@ public class actividad2 {
 		JButton btnNewButton_1 = new JButton("Salir");
 		btnNewButton_1.setBounds(224, 196, 89, 23);
 		frmContrasea.getContentPane().add(btnNewButton_1);
+		//comprobando que esto funciona
 	}
 }
